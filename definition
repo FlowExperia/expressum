@@ -1,0 +1,51 @@
+User Experience Journey (Flow Experia)
+Icon (Sigil)
+  Use cases – poles on spectrum (must be married): abstract (digital) to physical (analog)
+    Abstract
+      OS Dock/shortcut
+    Physical
+      Pendant necklace
+  Features
+    ring fence, meta, transforming, surfing, decentralized+centralized partnership, spiral, rings
+  Functions
+    launch experience --> 
+
+Experia
+  App – input & output (poles?)
+    Instantiations
+      Writing app
+        Desktop: electron
+        Mobile: react native mobile
+        Open: web app
+      Terminal
+        dev ops
+      Sublime
+        code
+      dev live & prod live
+        web app for experions
+    Concept
+      way easier desktop / native self-Patreon & social publishing platform; ability to publish simply from desktop; turn your laptop into a focused publishing machine without requiring a web browser so you don't get distracted & can focus on publishing and not consuming; doesn't promote
+      communication? in teams only, with focus on constructive feedback (with prompts that promote critical thinking) & decision-making (group voting)
+
+write node server
+  1 (MVP)
+    experion stories
+      i want to post to the live site from my desktop
+        server
+          node: server with POST API route that puts submitted content
+        client
+          electron: app that submits POST to API
+      i want to visit the live site and see the latest state
+        server
+          node: GET API route that gives current content state
+        client
+          GitHub pages index that pulls from db
+  2
+    sigil
+  3
+    hug market ticket, purchase hug at different times, lock in price now, set timer to purchase, check availability
+
+content
+  design philosophy / experion experia flow / "user journey design"
+  tools: Sketch, FramerJS, JavaScript tech
+  hug philosophy
