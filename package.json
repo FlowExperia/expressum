@@ -1,0 +1,27 @@
+{
+  "name": "expressum_server",
+  "version": "1.0.0",
+  "description": "Server for Expressum self-publication & -pledge app",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "cors": "^2.7.1",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-config-airbnb-base": "^11.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.8.0"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlowExperia/expressum_server.git"
+  },
+  "author": "Jared Scheib",
+  "license": "MIT"
+}
